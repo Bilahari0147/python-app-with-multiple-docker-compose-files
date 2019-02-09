@@ -5,6 +5,4 @@ services:
     image: $IMAGE/python:$TAG
     restart: always
 
-  java:
-    image: $IMAGE/java:$TAG
-    restart: always
+

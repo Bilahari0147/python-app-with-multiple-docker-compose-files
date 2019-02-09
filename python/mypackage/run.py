@@ -1,5 +1,5 @@
 def main():
-    print("I'm in a container, help!")
+    print("This is my sample App")
 
 
 def is_this_just_fantasy():
